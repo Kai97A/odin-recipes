@@ -1,0 +1,39 @@
+.pastah {
+    background-color: gold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: darkgreen;
+}
+
+.pasta1 {
+    background-color: gold;
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+p {
+    background-color: forestgreen;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+#ens {
+    background-color: forestgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#ps {
+    background-color: forestgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: medium;
+    font-weight: 200;
+}

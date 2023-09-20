@@ -1,0 +1,43 @@
+.font {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: green;
+    background-color: red;
+    text-align: center;
+}
+
+#h1 {
+    text-align: center;
+    
+}
+
+
+.ing {
+    background-color: white;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.steps {
+    background-color: white;
+    color: green;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.info {
+    text-align: center;
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#kuva1 {
+    width: 400px;
+    height: auto;
+    display: flex;
+    align-self: center;
+}
